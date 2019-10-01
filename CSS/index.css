@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color:rgb(244,140,104);
+    color:white;
+    height: 150px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    text-align: right;    
+}
+h1{
+    margin-top: 45px;
+    margin-right: 25px;
+}
+strong{
+    margin-right: 25px;
+}
+.panda1{
+    padding: 120px;
+    text-align: center;
+    width: 50px;
+    height: 100%;
+}
